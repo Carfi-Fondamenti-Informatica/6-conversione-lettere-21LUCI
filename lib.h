@@ -1,1 +1,7 @@
 
+#ifndef INC_7_NUMERI_PRIMI_LORESQUERI_LIN_H
+#define INC_7_NUMERI_PRIMI_LORESQUERI_LIN_H
+
+#endif //INC_7_NUMERI_PRIMI_LORESQUERI_LIN_H
+
+bool numerip (int,int);
